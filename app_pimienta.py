@@ -10,7 +10,7 @@ import os
 
 # Poner en True para probar GRATIS (simulación).
 # Poner en False para usar la IA y gastar saldo.
-MODO_PRUEBA = True 
+MODO_PRUEBA = False 
 
 # Tu API KEY de OpenAI (Reemplaza esto cuando pongas MODO_PRUEBA = False)
 # O mejor aún, usa st.secrets en producción.
